@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mavenni
+- 👀 I’m interested in game development, especially using Godot Engine.
+- 🌱 I’m currently learning advanced game development techniques and mproving my knowledge in Python.
+- 📫 You can reach me on Discord: mavenni
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am also interested in linguistics and Turkology research.
